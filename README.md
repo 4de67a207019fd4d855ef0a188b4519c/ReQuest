@@ -3,4 +3,4 @@ ReQuest aims to establish a reputationally secured marketplace of escrow oracles
 
 By taking advantage of the cryptographic integrity guarantees and public nature of both Bitcoin and Nostr, ReQuest offers a platform for financially incentivizing the production or discovery of hard to find and valuable information in a way that aligns the incentives of all parties involved. 
 
-Read out whitepaper [here](https://github.com/4de67a207019fd4d855ef0a188b4519c/ReQuest/blob/main/ReQuest%20-%20A%20Bitcoin-native%20Bounty%20Mechanism%20for%20Coveted%20Data.pdf)
+Read our whitepaper [here](https://github.com/4de67a207019fd4d855ef0a188b4519c/ReQuest/blob/main/ReQuest%20-%20A%20Bitcoin-native%20Bounty%20Mechanism%20for%20Coveted%20Data.pdf)
